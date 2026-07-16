@@ -1,3 +1,14 @@
+---
+title: BioInformatics Visualization
+emoji: 🧬
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.30.0
+app_file: app.py
+pinned: false
+---
+
 # BioInformatics Data Pipeline & Visualization
 
 Aplikasi web untuk mengolah data interaksi metabolit tanaman dengan protein target hasil prediksi dari platform SwissTargetPrediction.
